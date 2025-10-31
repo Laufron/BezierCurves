@@ -9,3 +9,7 @@ Draw [Bezier Curves](https://fr.wikipedia.org/wiki/Courbe_de_B%C3%A9zier) using 
 ```bash
 uv run main.py
 ```
+
+## Credits
+
+Inspired by [this video from Tsoding](https://youtu.be/1epwf3iaQNU?t=465)
